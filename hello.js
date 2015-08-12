@@ -12,6 +12,8 @@ var mynose = "snotty"
 
 var myarms = "weak"
 
+var variable = "var"
+
 // changed project test
 
 // testing git
